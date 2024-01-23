@@ -1,11 +1,18 @@
 {
   "name": "kata-numbers-to-french",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eugene-Mokrushin/kata-numbers-to-french"
+  },
   "license": "MIT",
   "version": "1.0.0",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "type": "module",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsup index.ts --format cjs,esm --dts",
     "lint": "tsc"
