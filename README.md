@@ -6,8 +6,8 @@ Transforms list of numbers or a single number to its French words representation
   
 
 ### How to use
-1. Import library  `import kata from "kata-numbers-to-french"`
-2. Supply number or an array of numbers into `kata.fr(42)` or `kata.bg([420, 8910, 123])`
+1. Import library  `import {fr, bg} from "kata-numbers-to-french"`
+2. Supply number or an array of numbers into `fr(42)` or `bg([420, 8910, 123])`
 3. You can wrap function in `try-catch` to get catch the error.
 
 
