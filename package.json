@@ -5,8 +5,7 @@
     "url": "https://github.com/Eugene-Mokrushin/kata-numbers-to-french"
   },
   "license": "MIT",
-  "version": "0.0.1",
-  "description": "Trasform numbers to french words",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
